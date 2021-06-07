@@ -1,4 +1,6 @@
-# vue-ts
+# vue-ts 
+vue 3.0
+vuex 4
 
 ## Project setup
 ```
